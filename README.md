@@ -1,3 +1,2 @@
 # Shortener-Microservice
-
-Ignore ReadMe file.
+VISIT THE 'glitch' BRANCH FOR SOURCE CODE.
